@@ -1,9 +1,9 @@
-# Blog - 1ère activité Angular tutorial sur openClassroom.com
+# Blog - Dernière activité tutoriel Angular sur openClassroom.com
 [tuto angular en francais](https://openclassrooms.com/courses/developpez-avec-angular)
 
 ## Commentaires
 
-Activité réalisée mais sans le bonus, je ne vois pas comment mettre le type "Post" ni où. Je suis novice en langage typé.
+Mini-blog avec ajout de post. Activité réalisée sans le bonus firebase pour la persistence.
 
 ## Development server
 
